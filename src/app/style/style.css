@@ -1,0 +1,12 @@
+body {
+  color: #212121;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+}
+.section {
+  margin-bottom: 50px;
+}
+.header {
+  padding-top: 20px;
+  margin-bottom: 50px;
+}
